@@ -12,6 +12,7 @@ As you can see they are divided into two folders:
 | **Audit Name** | **Link/Private** |
 |----------------------|---------------|
 | stake.link | https://codehawks.cyfrin.io/c/2024-09-stakelink |
+| Swan | https://codehawks.cyfrin.io/c/2024-10-swan-dria |
 
 ## More information...
 
