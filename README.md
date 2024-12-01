@@ -9,10 +9,10 @@ As you can see they are divided into two folders:
 - **private audits** - these are reports of the findings on a private engagement that the team took part in.
 
 ## History
-| **Audit Name** | **Link/Private** |
+| **Audit Name** | **Link/Private** | **Rank** |
 |----------------------|---------------|
-| stake.link | https://codehawks.cyfrin.io/c/2024-09-stakelink |
-| Swan | https://codehawks.cyfrin.io/c/2024-10-swan-dria |
+| stake.link | https://codehawks.cyfrin.io/c/2024-09-stakelink | Top 10 |
+| Swan | https://codehawks.cyfrin.io/c/2024-10-swan-dria | Second place | 
 
 ## More information...
 
