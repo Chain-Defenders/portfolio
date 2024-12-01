@@ -10,7 +10,7 @@ As you can see they are divided into two folders:
 
 ## History
 | **Audit Name** | **Link/Private** | **Rank** |
-|----------------------|---------------|
+|----------------------|---------------| -------- |
 | stake.link | https://codehawks.cyfrin.io/c/2024-09-stakelink | Top 10 |
 | Swan | https://codehawks.cyfrin.io/c/2024-10-swan-dria | Second place | 
 
