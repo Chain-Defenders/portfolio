@@ -14,9 +14,8 @@ As you can see they are divided into two folders:
 | stake.link | https://codehawks.cyfrin.io/c/2024-09-stakelink | Top 10 |
 | Swan | https://codehawks.cyfrin.io/c/2024-10-swan-dria | 2nd | 
 | Phi | private | - |
-
-
-
+| Tokensoft | https://audits.sherlock.xyz/contests/285?filter=questions | 2nd |
+| Usual | https://audits.sherlock.xyz/contests/575?filter=questions | 2nd |
 
 ## More information...
 
