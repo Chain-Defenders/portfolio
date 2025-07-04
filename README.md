@@ -1,6 +1,6 @@
 # What is this?
 
-In this repository, you can find final reports of audits done by the team of ChainDefenders.
+In this repository, you can find final reports of audits done by the team of Chain Defenders.
 
 ## Structure
 
@@ -32,6 +32,7 @@ As you can see they are divided into two folders:
 | -------------------- | -------- |
 | Phi                  | 11.2024  |
 | Size Credit          | 12.2024  |
+| Cyfrin Attester      | 03.2025  |
 | Blackhole Experiment | 03.2025  |
 | Cyfrin x EulerSwap   | 05.2025  |
 
@@ -41,4 +42,4 @@ For more information, you can visit our website: https://www.chaindefenders.xyz
 
 ---
 
-Made by ChainDefenders
+Made by Chain Defenders
