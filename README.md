@@ -34,13 +34,14 @@ Here, you'll find detailed security reports from both **contest-based** and **pr
 
 ## 🔒 Private Engagements
 
-| Protocol             | Report Page                                                                                                               | Date     | Findings       | Tech                  | Platform |
-| -------------------- | ------------------------------------------------------------------------------------------------------------------------- | -------- | -------------- | --------------------- | -------- |
-| Phi                  | [🛡️ View Report](https://github.com/Chain-Defenders/portfolio/blob/master/private%20audits/phi-nov-2024.pdf)              | Nov 2024 | 1M, 2L, 4I     | NFT, SocialFi         | EVM      |
-| Size Credit          | [🛡️ View Report](https://github.com/Chain-Defenders/portfolio/blob/master/private%20audits/size-dec-2024.pdf)             | Dec 2024 | 1L, 2I, 2G     | Lending, Oracle       | EVM      |
-| Cyfrin Attester      | [🛡️ View Report](https://github.com/Chain-Defenders/portfolio/blob/master/private%20audits/cyfrin-attester-mar-2025.pdf)  | Mar 2025 | 1H, 2M, 6L, 4I | EAS, ERC5192          | EVM      |
-| Blackhole Experiment | [🛡️ View Report](https://github.com/Chain-Defenders/portfolio/blob/master/private%20audits/blackhole-mar-2025.pdf)        | Mar 2025 | 3M, 5L, 1I, 1G | GameFi, ERC20         | EVM      |
-| Cyfrin x EulerSwap   | [🛡️ View Report](https://github.com/Chain-Defenders/portfolio/blob/master/private%20audits/cyfrin-eulerswap-may-2025.pdf) | May 2025 | 2L, 3I, 2G     | Vault, AMM, UniswapV4 | EVM      |
+| Protocol             | Report Page                                                                                                                  | Date      | Findings                  | Tech                  | Platform |
+| -------------------- | ---------------------------------------------------------------------------------------------------------------------------- | --------- | ------------------------- | --------------------- | -------- |
+| Phi                  | [🛡️ View Report](https://github.com/Chain-Defenders/portfolio/blob/master/private%20audits/phi-nov-2024.pdf)                 | Nov 2024  | 1M, 2L, 4I                | NFT, SocialFi         | EVM      |
+| Size Credit          | [🛡️ View Report](https://github.com/Chain-Defenders/portfolio/blob/master/private%20audits/size-dec-2024.pdf)                | Dec 2024  | 1L, 2I, 2G                | Lending, Oracle       | EVM      |
+| Cyfrin Attester      | [🛡️ View Report](https://github.com/Chain-Defenders/portfolio/blob/master/private%20audits/cyfrin-attester-mar-2025.pdf)     | Mar 2025  | 1H, 2M, 6L, 4I            | EAS, ERC5192          | EVM      |
+| Blackhole Experiment | [🛡️ View Report](https://github.com/Chain-Defenders/portfolio/blob/master/private%20audits/blackhole-mar-2025.pdf)           | Mar 2025  | 3M, 5L, 1I, 1G            | GameFi, ERC20         | EVM      |
+| Cyfrin x EulerSwap   | [🛡️ View Report](https://github.com/Chain-Defenders/portfolio/blob/master/private%20audits/cyfrin-eulerswap-may-2025.pdf)    | May 2025  | 2L, 3I, 2G                | Vault, AMM, UniswapV4 | EVM      |
+| Cyfrin x Suzaku Core | [🛡️ View Report](https://github.com/Chain-Defenders/portfolio/blob/master/private%20audits/cyfrin-suzaku-core-june-2025.pdf) | June 2025 | 2C, 10H, 19M, 13L, 1I, 6G | Liquid Staking, Vault | EVM      |
 
 ---
 
