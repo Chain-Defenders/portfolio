@@ -45,11 +45,11 @@ Here, you'll find detailed security reports from both **contest-based** and **pr
 | Blackhole Experiment | [🛡️ View Report](https://github.com/Chain-Defenders/portfolio/blob/master/private%20audits/blackhole-mar-2025.pdf)           | Mar 2025  | 3M, 5L, 1I, 1G            | GameFi, ERC20         | EVM      |
 | Cyfrin x EulerSwap   | [🛡️ View Report](https://github.com/Chain-Defenders/portfolio/blob/master/private%20audits/cyfrin-eulerswap-may-2025.pdf)    | May 2025  | 2L, 3I, 2G                | Vault, AMM, UniswapV4 | EVM      |
 | Cyfrin x Suzaku Core | [🛡️ View Report](https://github.com/Chain-Defenders/portfolio/blob/master/private%20audits/cyfrin-suzaku-core-june-2025.pdf) | May 2025 | 2C, 10H, 19M, 13L, 1I, 6G | Liquid Staking, Vault | EVM      |
-| Phi Token | TBA | June 2025 | TBA | Liquid Staking, Vault | EVM      |
-| Phi Staking | TBA | June 2025 | TBA | Liquid Staking, Vault | EVM      |
+| Phi Token | TBA | June 2025 | TBA | ERC20, UniswapV4, NFT, Oracle | EVM      |
+| Phi Staking | TBA | June 2025 | TBA | Liquid Staking, ERC20 | EVM      |
 | Cyfrin x Symbiotic | TBA | July 2025 | TBA | TBA | EVM      |
 | Cyfrin x Licredity | TBA | August 2025 | TBA | TBA | EVM      |
-| AddictedDotFun | TBA | August 2025 | TBA | Gameplay, Tokenomics, Farming mechanics  | Rust      |
+| AddictedDotFun | TBA | August 2025 | TBA | GameFi, ERC20, Farming mechanics  | SVM      |
 
 ---
 
