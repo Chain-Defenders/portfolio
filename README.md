@@ -47,7 +47,7 @@ Here, you'll find detailed security reports from both **contest-based** and **pr
 | Cyfrin x Suzaku Core | [🛡️ View Report](https://github.com/Chain-Defenders/portfolio/blob/master/private%20audits/cyfrin-suzaku-core-june-2025.pdf) | May 2025 | 2C, 10H, 19M, 13L, 1I, 6G | Liquid Staking, Vault | EVM      |
 | Phi Token | TBA | June 2025 | TBA | ERC20, UniswapV4, NFT, Oracle | EVM      |
 | Phi Staking | TBA | June 2025 | TBA | Liquid Staking, ERC20 | EVM      |
-| NDA | NDA | July 2025 | NDA | Wormhole, ERC20 | EVM | 
+| NDA | Private | July 2025 | NDA | Wormhole, ERC20 | EVM | 
 | Cyfrin x Symbiotic | TBA | July 2025 | TBA | TBA | EVM      |
 | Cyfrin x Licredity | TBA | August 2025 | TBA | TBA | EVM      |
 | AddictedDotFun | TBA | August 2025 | TBA | GameFi, ERC20, Farming mechanics  | SVM      |
