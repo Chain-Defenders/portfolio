@@ -50,7 +50,7 @@ Here, you'll find detailed security reports from both **contest-based** and **pr
 | NDA | Private | July 2025 | NDA | Wormhole, ERC20 | EVM | 
 | Cyfrin x Symbiotic | TBA | July 2025 | TBA | TBA | EVM      |
 | Cyfrin x Licredity | TBA | August 2025 | TBA | TBA | EVM      |
-| AddictedDotFun | TBA | August 2025 | TBA | GameFi, ERC20, Farming mechanics  | SVM      |
+| AddictedDotFun | TBA | August 2025 | TBA | GameFi, ERC20  | SVM      |
 
 ---
 
