@@ -1,7 +1,7 @@
 # 🛡️ Chain Defenders Audit Reports
 
 ![Contests](https://img.shields.io/badge/Contests-15+-cyan)
-![Private Audits](https://img.shields.io/badge/Private_Audits-12-blue)
+![Private Audits](https://img.shields.io/badge/Private_Audits-15-blue)
 
 ![Lines Reviewed](https://img.shields.io/badge/Lines_Reviewed-50K+-green)
 ![Findings](https://img.shields.io/badge/Findings-100+-red)
