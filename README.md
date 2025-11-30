@@ -9,7 +9,6 @@
 Welcome to the official audit reports repository of **Chain Defenders** — a specialized Web3 security firm that has audited 50K+ lines of code and uncovered over 100 high/medium severity vulnerabilities.
 
 Here, you'll find detailed security reports from both **contest-based** and **private** engagements.
-
 ---
 
 ## 📁 Repository Structure
