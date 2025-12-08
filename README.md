@@ -1,14 +1,57 @@
-# 🛡️ Chain Defenders Audit Reports
+<div align="center">
 
-![Contests](https://img.shields.io/badge/Contests-15+-cyan)
-![Private Audits](https://img.shields.io/badge/Private_Audits-21-blue)
+# 🛡️ Chain Defenders
 
-![Lines Reviewed](https://img.shields.io/badge/Lines_Reviewed-50K+-green)
-![Findings](https://img.shields.io/badge/Findings-100+-red)
+### _Protecting the Future of Decentralized Finance, One Audit at a Time_
 
-Welcome to the official audit reports repository of **Chain Defenders** — a specialized Web3 security firm that has audited 50K+ lines of code and uncovered over 100 high/medium severity vulnerabilities.
+<br>
 
-## Here, you'll find detailed security reports from both **contest-based** and **private** engagements.
+[![Contests](https://img.shields.io/badge/Contests-15+-cyan?style=for-the-badge&logo=shield-check)](contests/)
+[![Private Audits](https://img.shields.io/badge/Private_Audits-22-blue?style=for-the-badge&logo=lock)](private%20audits/)
+[![Lines Reviewed](https://img.shields.io/badge/Lines_Reviewed-50K+-green?style=for-the-badge&logo=code)](https://github.com/Chain-Defenders/portfolio)
+[![Findings](https://img.shields.io/badge/High_Findings-100+-red?style=for-the-badge&logo=bug)](https://github.com/Chain-Defenders/portfolio)
+
+<br>
+
+### 🚀 **Ready to Secure Your Protocol?**
+
+**[📧 Get a Quote](https://t.me/eth0x539)** • **[🌐 Visit Website](https://www.chaindefenders.xyz)** • **[📚 Read Docs](https://www.chaindefenders.xyz/docs)** • **[🐦 Follow Us](https://x.com/DefendersAudits)**
+
+---
+
+</div>
+
+## ⚡ Why Chain Defenders?
+
+<div align="left">
+
+### 🏆 **Proven Excellence**
+
+- **Top-tier rankings** across Code4rena, Sherlock, Cantina, and CodeHawks
+- **50+ Critical/High findings** discovered – protecting millions in user funds
+- **20+ private engagements** with leading protocols and security partners
+
+### 🎯 **High-Impact Results**
+
+- **100+ critical & high severity vulnerabilities** uncovered across diverse protocols
+- **50,000+ lines of code** reviewed with precision and depth
+- **Multi-chain expertise**: EVM, HyperEVM, and SVM
+
+### ⚡ **Speed Meets Quality**
+
+- **Rapid turnaround** without compromising thoroughness
+- **Actionable insights** that go beyond surface-level analysis
+- **Clear, prioritized recommendations** for immediate implementation
+
+### 🤝 **Trusted by Industry Leaders**
+
+- Selected for **private audits** by well-known protocols
+- **Repeat clients** – proof of our value and reliability
+- **Partnerships** with top security firms like Cyfrin
+
+</div>
+
+---
 
 ## 📁 Repository Structure
 
@@ -33,6 +76,14 @@ Welcome to the official audit reports repository of **Chain Defenders** — a sp
 
 ## 🏆 Contest-Based Audits
 
+<div align="left">
+
+Our competitive audit performance demonstrates our ability to find critical vulnerabilities that others miss. We consistently rank in the **top 10** across major platforms, proving our expertise in real-world competitive environments.
+
+</div>
+
+<br>
+
 | Protocol         | Audit Platform | Contest Page                                                                             | Report Page                                                                                                 | Rank | Findings                                                                                                                                             | Tech                                                                                                                                                                                                                                                                            | Platform                                                                                                                                                                  |
 | ---------------- | -------------- | ---------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------- | ---- | ---------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | Phi              | Code4rena      | [🔍 View Contest](https://code4rena.com/audits/2024-08-phi)                              | [🛡️ View Report](https://github.com/Chain-Defenders/portfolio/blob/master/contests/phi-aug-2024.pdf)        | 2nd  | ![2C/H](https://img.shields.io/badge/2C/H-darkred) ![1M](https://img.shields.io/badge/1M-orange)                                                     | <img height="20" src="https://img.shields.io/badge/-   NFT   -234942?style=flat" /> <img height="20" src="https://img.shields.io/badge/-   SocialFi   -234942?style=flat" />                                                                                                    | <img height="20" src="https://img.shields.io/badge/-   EVM   -0173c4?style=flat" />                                                                                       |
@@ -55,6 +106,14 @@ Welcome to the official audit reports repository of **Chain Defenders** — a sp
 ---
 
 ## 🔒 Private Engagements
+
+<div align="left">
+
+Trusted by leading protocols and security firms for confidential audits. Our private engagements showcase our ability to work with high-profile clients and deliver results that exceed expectations.
+
+</div>
+
+<br>
 
 | Protocol                                 | Report Page                                                                                                                                   | Date           | Findings                                                                                                                                                                                                                                             | Tech                                                                                                                                                                                                                                                                                                                                                        | Platform                                                                                 |
 | ---------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------- | -------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------- |
@@ -79,27 +138,69 @@ Welcome to the official audit reports repository of **Chain Defenders** — a sp
 | AddictedDotFun S2                        | [🛡️ View Report](https://github.com/Chain-Defenders/portfolio/blob/master/private%20audits/addicteddotfun-s2-oct-2025.pdf)                    | October 2025   | ![2C/H](https://img.shields.io/badge/2C/H-darkred) ![2M](https://img.shields.io/badge/2M-orange) ![6L](https://img.shields.io/badge/6L-yellow) ![5I](https://img.shields.io/badge/5I-blue)                                                           | <img height="20" src="https://img.shields.io/badge/-   Anchor   -234942?style=flat" /> <img height="20" src="https://img.shields.io/badge/-   GameFi   -234942?style=flat" /> <img height="20" src="https://img.shields.io/badge/-   Token2022   -234942?style=flat" /> <img height="20" src="https://img.shields.io/badge/-   VRF   -234942?style=flat" /> | <img height="20" src="https://img.shields.io/badge/-   SVM   -c40501?style=flat" />      |
 | Cyfrin x Linea                           | TBA                                                                                                                                           | November 2025  | TBA                                                                                                                                                                                                                                                  | TBA                                                                                                                                                                                                                                                                                                                                                         | <img height="20" src="https://img.shields.io/badge/-   EVM   -0173c4?style=flat" />      |
 | RacerDotFun                              | [🛡️ View Report](https://github.com/Chain-Defenders/portfolio/blob/master/private%20audits/racerdotfun-nov-2025.pdf)                          | November 2025  | ![2C/H](https://img.shields.io/badge/2C/H-darkred) ![7L](https://img.shields.io/badge/7L-yellow) ![2I](https://img.shields.io/badge/2I-blue)                                                                                                         | <img height="20" src="https://img.shields.io/badge/-   Anchor   -234942?style=flat" /> <img height="20" src="https://img.shields.io/badge/-   GameFi   -234942?style=flat" /> <img height="20" src="https://img.shields.io/badge/-   Vault   -234942?style=flat" />                                                                                         | <img height="20" src="https://img.shields.io/badge/-   SVM   -c40501?style=flat" />      |
+| Cyfrin x STBL                            | TBA                                                                                                                                           | December 2025  | TBA                                                                                                                                                                                                                                                  | TBA                                                                                                                                                                                                                                                                                                                                                         | <img height="20" src="https://img.shields.io/badge/-   EVM   -0173c4?style=flat" />      |
 | _Total findings_                         |                                                                                                                                               |                | ![39C/H](https://img.shields.io/badge/39C/H-darkred) ![55M](https://img.shields.io/badge/55M-orange) ![129L](https://img.shields.io/badge/129L-yellow) ![125I](https://img.shields.io/badge/125I-blue) ![21G](https://img.shields.io/badge/21G-grey) |                                                                                                                                                                                                                                                                                                                                                             |                                                                                          |
 
 ---
 
-## 💡 Why Choose Us
+## 💼 Our Services
 
-- 🏆 **Proven Track Record** – Consistently top-ranked in Code4rena, Sherlock, Cantina and CodeHawks contests.
-- 🔍 **High-Impact Findings** – Over 100 high & medium severity vulnerabilities uncovered across all kinds of protocols.
-- 🌐 **Multi-Chain Expertise** – Deep experience across **EVM**, **HyperEVM** and **SVM**.
-- ⚡ **Fast & Thorough** – Rapid turnaround times without compromising depth of analysis.
-- 🤝 **Trusted by Leading Teams** – Selected for private audits by well-known protocols and security partners.
+<div align="left">
+
+### 🔍 **Pre-Audit Reviews**
+
+A pre-audit review is designed to prepare your project for a full audit. This early stage review identifies structural weaknesses and common pitfalls so you can streamline the official audit process — saving both time and cost.
+
+### 🔒 **Web3 Security Audits**
+
+A security audit is the cornerstone of trust in Web3. We conduct in-depth, end-to-end reviews of smart contracts, protocols, and blockchain infrastructure to detect vulnerabilities before they can be exploited.
+
+### 🎯 **Web3 Development**
+
+Security and functionality go hand in hand. Our development services help teams design and implement scalable, secure, and production-ready smart contracts and protocols.
+
+### 🧪 **Fuzzing & Advanced Testing**
+
+Fuzzing is one of the most effective ways to uncover edge-case vulnerabilities that traditional testing misses. We simulate adversarial inputs, unexpected states, and long-tail execution paths to stress-test protocols.
+
+</div>
 
 ---
 
-## 🌐 Learn More
+## 📊 By The Numbers
 
-- 🌍 Website: [chaindefenders.xyz](https://www.chaindefenders.xyz)
-- 📚 Docs: [chaindefenders.xyz/docs](https://www.chaindefenders.xyz/docs)
-- 📬 Telegram: @eth0x539 / @peterPSR
-- 🧵 Twitter/X: [@DefendersAudits](https://x.com/DefendersAudits)
+<div align="center">
+
+|         Metric          |              Value              |
+| :---------------------: | :-----------------------------: |
+| 🏆 **Contest Rankings** |     Top 10 in 10+ contests      |
+|  🔍 **Total Findings**  | 300+ vulnerabilities discovered |
+|  ⚡ **Critical/High**   | 50+ high-severity issues found  |
+| 🌐 **Chains Supported** |       EVM, HyperEVM, SVM        |
+| 🤝 **Private Clients**  |   20+ successful engagements    |
+|  📝 **Lines Reviewed**  |      50,000+ lines of code      |
+
+</div>
 
 ---
 
-Made with ❤️ by **Chain Defenders**
+## 🌐 Connect With Us
+
+<div align="center">
+
+[![Website](https://img.shields.io/badge/Website-chaindefenders.xyz-0173c4?style=for-the-badge&logo=globe)](https://www.chaindefenders.xyz)
+[![Documentation](https://img.shields.io/badge/Documentation-Docs-234942?style=for-the-badge&logo=book)](https://www.chaindefenders.xyz/docs)
+[![Twitter](https://img.shields.io/badge/Twitter-@DefendersAudits-1DA1F2?style=for-the-badge&logo=twitter)](https://x.com/DefendersAudits)
+[![Telegram](https://img.shields.io/badge/Telegram-Contact-0088cc?style=for-the-badge&logo=telegram)](https://t.me/eth0x539)
+
+**📧 Direct Contact:** [@eth0x539](https://t.me/eth0x539) / [@peterPSR](https://t.me/peterPSR)
+
+</div>
+
+---
+
+<div align="center">
+
+Made with ❤️ by **Chain Defenders** | Protecting Web3, One Audit at a Time
+
+</div>
