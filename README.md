@@ -8,8 +8,8 @@
 
 [![Contests](https://img.shields.io/badge/Contests-15+-cyan?style=for-the-badge&logo=shield-check)](contests/)
 [![Private Audits](https://img.shields.io/badge/Private_Audits-22-blue?style=for-the-badge&logo=lock)](private%20audits/)
-[![Lines Reviewed](https://img.shields.io/badge/Lines_Reviewed-50K+-green?style=for-the-badge&logo=code)](https://github.com/Chain-Defenders/portfolio)
-[![Findings](https://img.shields.io/badge/High_Findings-100+-red?style=for-the-badge&logo=bug)](https://github.com/Chain-Defenders/portfolio)
+[![Lines Reviewed](https://img.shields.io/badge/Lines_Reviewed-100K+-green?style=for-the-badge&logo=code)](https://github.com/Chain-Defenders/portfolio)
+[![Findings](https://img.shields.io/badge/Critical/High_Findings-100+-red?style=for-the-badge&logo=bug)](https://github.com/Chain-Defenders/portfolio)
 
 <br>
 
@@ -34,7 +34,7 @@
 ### 🎯 **High-Impact Results**
 
 - **100+ critical & high severity vulnerabilities** uncovered across diverse protocols
-- **50,000+ lines of code** reviewed with precision and depth
+- **100,000+ lines of code** reviewed with precision and depth
 - **Multi-chain expertise**: EVM, HyperEVM, and SVM
 
 ### ⚡ **Speed Meets Quality**
@@ -178,7 +178,7 @@ Fuzzing is one of the most effective ways to uncover edge-case vulnerabilities t
 |  ⚡ **Critical/High**   | 50+ high-severity issues found  |
 | 🌐 **Chains Supported** |       EVM, HyperEVM, SVM        |
 | 🤝 **Private Clients**  |   20+ successful engagements    |
-|  📝 **Lines Reviewed**  |      50,000+ lines of code      |
+|  📝 **Lines Reviewed**  |      100,000+ lines of code      |
 
 </div>
 
