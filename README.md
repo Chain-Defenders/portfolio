@@ -28,7 +28,6 @@
 ### 🏆 **Proven Excellence**
 
 - **Top-tier rankings** across Code4rena, Sherlock, Cantina, and CodeHawks
-- **50+ Critical/High findings** discovered – protecting millions in user funds
 - **20+ private engagements** with leading protocols and security partners
 
 ### 🎯 **High-Impact Results**
@@ -175,7 +174,7 @@ Fuzzing is one of the most effective ways to uncover edge-case vulnerabilities t
 | :---------------------: | :-----------------------------: |
 | 🏆 **Contest Rankings** |     Top 10 in 10+ contests      |
 |  🔍 **Total Findings**  | 300+ vulnerabilities discovered |
-|  ⚡ **Critical/High**   | 50+ high-severity issues found  |
+|  ⚡ **Critical/High**   | 100+ high-severity issues found  |
 | 🌐 **Chains Supported** |       EVM, HyperEVM, SVM        |
 | 🤝 **Private Clients**  |   20+ successful engagements    |
 |  📝 **Lines Reviewed**  |      100,000+ lines of code      |
