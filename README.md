@@ -7,7 +7,7 @@
 <br>
 
 [![Contests](https://img.shields.io/badge/Contests-15+-cyan?style=for-the-badge&logo=shield-check)](contests/)
-[![Private Audits](https://img.shields.io/badge/Private_Audits-40+-blue?style=for-the-badge&logo=lock)](private%20audits/)
+[![Private Audits](https://img.shields.io/badge/Private_Audits-45+-blue?style=for-the-badge&logo=lock)](private%20audits/)
 [![Lines Reviewed](https://img.shields.io/badge/Lines_Reviewed-100K+-green?style=for-the-badge&logo=code)](https://github.com/Chain-Defenders/portfolio)
 [![Findings](https://img.shields.io/badge/Critical/High_Findings-100+-red?style=for-the-badge&logo=bug)](https://github.com/Chain-Defenders/portfolio)
 
@@ -28,7 +28,7 @@
 ### 🏆 **Proven Excellence**
 
 - **Top-tier rankings** across Code4rena, Sherlock, Cantina, and CodeHawks
-- **30+ private engagements** with leading protocols and security partners
+- **45+ private engagements** with leading protocols and security partners
 
 ### 🎯 **High-Impact Results**
 
