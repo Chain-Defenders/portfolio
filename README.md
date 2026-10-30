@@ -56,6 +56,7 @@
 
 - `private audits/` – Reports from private client engagements conducted under NDA or direct contracts.
 - `contests/` – Finalized reports from open auditing contests (Code4rena, Sherlock, CodeHawks).
+- `ai engagements/` – Reports from AI cost audits and builds, published with the client's agreement.
 
 ---
 
@@ -172,6 +173,22 @@ Our competitive audit performance demonstrates our ability to find critical vuln
 
 ---
 
+## 🤖 AI Engagements
+
+<div align="left">
+
+AI cost audits that cut what companies pay for AI, and builds that hand one job to an AI tool. Every result is measured: a saving read off the next provider invoice, or the same number measured before and after.
+
+</div>
+
+<br>
+
+| Client | Type | Date | What we did | Result | Report |
+| ------ | ---- | ---- | ----------- | ------ | ------ |
+| Chain Defenders (our own back office) | Build | October 2026 | Automated our own back office: new prospects found and scored every morning, quote requests from our mailbox sent to Telegram, invoices, ledgers and financial reports built on their own, and reports turned from data into PDFs, with a language model drafting the first summary. | Sales, invoicing and reporting for a team of two run from one admin, with no invoices or reports put together by hand. | — |
+
+---
+
 ## 💼 Our Services
 
 <div align="left">
@@ -191,6 +208,14 @@ Security and functionality go hand in hand. Our development services help teams 
 ### 🧪 **Fuzzing & Advanced Testing**
 
 Fuzzing is one of the most effective ways to uncover edge-case vulnerabilities that traditional testing misses. We simulate adversarial inputs, unexpected states, and long-tail execution paths to stress-test protocols.
+
+### 💶 **AI Cost Audits**
+
+For teams running AI in production: we trace the model spend to the feature behind it, find where it leaks, test every change on your own examples, and read the saving off your next invoice.
+
+### ⚙️ **AI Builds**
+
+For teams not using AI yet: one tool for one repeatable job, built into the software you already use, on your own accounts, measured before and after, and handed over with its code.
 
 </div>
 
