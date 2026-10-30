@@ -179,17 +179,17 @@ AI cost audits and builds, each with a measured result: a saving read off the ne
 <tr valign="top">
 <td>
 
-- **🔍 Pre-audit reviews**: structural weaknesses found early, so the full audit costs less
-- **🔒 Security audits**: end-to-end reviews of contracts, protocols and infrastructure
-- **🎯 Web3 development**: secure, production-ready contracts and protocols
-- **🧪 Fuzzing and advanced testing**: adversarial inputs and edge-case states
+- 🔍 **Pre-audit reviews**: weak spots found early
+- 🔒 **Security audits**: contracts and protocols, end to end
+- 🎯 **Web3 development**: secure, production-ready code
+- 🧪 **Fuzzing**: adversarial inputs and edge cases
 
 </td>
 <td>
 
-- **💶 AI cost audits**: for teams running AI in production; the saving read off the next invoice
-- **⚙️ AI builds**: for teams not using AI yet; one job, measured before and after
-- **🆓 A free first review** for either
+- 💶 **AI cost audits**: a smaller AI bill, proven on the invoice
+- ⚙️ **AI builds**: one AI tool for one job, handed over
+- 🆓 **A free first review** for either
 
 </td>
 </tr>
@@ -205,23 +205,19 @@ AI cost audits and builds, each with a measured result: a saving read off the ne
 <tr valign="top">
 <td>
 
-| | |
-| :-- | :-- |
-| 🏆 Contest rankings | Top 10 in 10+ contests |
-| 🔍 Findings | 300+, 100+ critical or high |
-| 🤝 Private clients | 45+ engagements |
-| 📝 Code reviewed | 100,000+ lines |
-| 🌐 Languages | Solidity, Rust, Cairo, Move, Vyper |
+- 🏆 **Top 10** in 10+ contests
+- 🔍 **300+** findings, **100+** critical or high
+- 🤝 **45+** private engagements
+- 📝 **100,000+** lines of code reviewed
+- 🌐 **5** languages: Solidity, Rust, Cairo, Move, Vyper
 
 </td>
 <td>
 
-| | |
-| :-- | :-- |
-| 💶 Cost audits | Saving read off the next invoice |
-| ⚙️ Builds | The same number, before and after |
-| 🧪 Every change | Tested on the client's own examples |
-| 🔑 Every build | On the client's own accounts and keys |
+- 💶 Cost audits: the saving **read off the next invoice**
+- ⚙️ Builds: the same number **before and after**
+- 🧪 Every change **tested on the client's own examples**
+- 🔑 Every build **on the client's own accounts and keys**
 
 </td>
 </tr>
