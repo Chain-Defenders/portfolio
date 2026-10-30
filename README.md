@@ -179,17 +179,17 @@ AI cost audits and builds, each with a measured result: a saving read off the ne
 <tr valign="top">
 <td>
 
-- **🔍 Pre-audit reviews**: structural weaknesses found early, so the full audit costs less
-- **🔒 Security audits**: end-to-end reviews of contracts, protocols and infrastructure
-- **🎯 Web3 development**: secure, production-ready contracts and protocols
-- **🧪 Fuzzing and advanced testing**: adversarial inputs and edge-case states
+- 🔍 **Pre-audit reviews**: weak spots found early
+- 🔒 **Security audits**: contracts and protocols, end to end
+- 🎯 **Web3 development**: secure, production-ready code
+- 🧪 **Fuzzing**: adversarial inputs and edge cases
 
 </td>
 <td>
 
-- **💶 AI cost audits**: for teams running AI in production; the saving read off the next invoice
-- **⚙️ AI builds**: for teams not using AI yet; one job, measured before and after
-- **🆓 A free first review** for either
+- 💶 **AI cost audits**: a smaller AI bill, proven on the invoice
+- ⚙️ **AI builds**: one AI tool for one job, handed over
+- 🆓 **A free first review** for either
 
 </td>
 </tr>
