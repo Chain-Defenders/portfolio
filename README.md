@@ -2,7 +2,7 @@
 
 # 🛡️ Chain Defenders
 
-### _Protecting the Future of Decentralized Finance, One Audit at a Time_
+### _Web3 security audits, and AI that pays its way_
 
 <br>
 
@@ -10,12 +10,14 @@
 [![Private Audits](https://img.shields.io/badge/Private_Audits-45+-blue?style=for-the-badge&logo=lock)](private%20audits/)
 [![Lines Reviewed](https://img.shields.io/badge/Lines_Reviewed-100K+-green?style=for-the-badge&logo=code)](https://github.com/Chain-Defenders/portfolio)
 [![Findings](https://img.shields.io/badge/Critical/High_Findings-100+-red?style=for-the-badge&logo=bug)](https://github.com/Chain-Defenders/portfolio)
+[![AI Cost Audits](https://img.shields.io/badge/AI-Cost_Audits-e36209?style=for-the-badge)](https://www.chaindefenders.xyz/ai)
+[![AI Builds](https://img.shields.io/badge/AI-Builds-8957e5?style=for-the-badge)](https://www.chaindefenders.xyz/ai)
 
 <br>
 
-### 🚀 **Ready to Secure Your Protocol?**
+### 🚀 **Securing a protocol, or making AI pay its way?**
 
-**[📧 Get a Quote](https://t.me/eth0x539)** • **[🌐 Visit Website](https://www.chaindefenders.xyz)** • **[📚 Read Docs](https://www.chaindefenders.xyz/docs)** • **[🐦 Follow Us](https://x.com/DefendersAudits)**
+**[📧 Get a Quote](https://t.me/eth0x539)** • **[🔒 Web3 Audits](https://www.chaindefenders.xyz/web3)** • **[🤖 AI Services](https://www.chaindefenders.xyz/ai)** • **[📚 Read Docs](https://www.chaindefenders.xyz/docs)** • **[🐦 Follow Us](https://x.com/DefendersAudits)**
 
 ---
 
@@ -25,21 +27,24 @@
 
 <div align="left">
 
-### 🏆 **Proven Excellence**
+### 🔒 **Web3 Security**
 
 - **Top-tier rankings** across Code4rena, Sherlock, Cantina, and CodeHawks
 - **45+ private engagements** with leading protocols and security partners
-
-### 🎯 **High-Impact Results**
-
-- **100+ critical & high severity vulnerabilities** uncovered across diverse protocols
-- **100,000+ lines of code** reviewed with precision and depth
+- **100+ critical & high severity vulnerabilities** uncovered across **100,000+ lines of code**
 - **Multi-chain expertise**: EVM, HyperEVM, and SVM
 
-### ⚡ **Speed Meets Quality**
+### 🤖 **AI, Measured**
 
+- **Cost audits** that trace every euro of model spend to the feature behind it
+- **Every change tested** on the client's own examples before it ships
+- **Savings read off the next provider invoice**, not projected
+- **Builds on the client's own accounts and keys**, handed over with the code and an off switch
+
+### ⚡ **One Way of Working**
+
+- **Security habits for both**: least-privilege access, a person reviewing anything costly, and a record of what changed
 - **Rapid turnaround** without compromising thoroughness
-- **Actionable insights** that go beyond surface-level analysis
 - **Clear, prioritized recommendations** for immediate implementation
 
 ### 🤝 **Trusted by Industry Leaders**
@@ -71,6 +76,15 @@
 | ![G](https://img.shields.io/badge/G-grey)        | Gas optimization           |
 
 > **Note:** Chain Defenders classifies all _Critical_ and _High_ findings under a single **High** severity label.
+
+---
+
+## 🏷️ AI Work Types
+
+| Badge | Meaning |
+| ----- | ------- |
+| <img height="20" src="https://img.shields.io/badge/-Cost%20audit-e36209?style=flat" /> | Finding and proving savings on an existing AI bill |
+| <img height="20" src="https://img.shields.io/badge/-Build-8957e5?style=flat" /> | One AI tool for one job, built into the client's own software and handed over |
 
 ---
 
@@ -183,9 +197,9 @@ AI cost audits that cut what companies pay for AI, and builds that hand one job 
 
 <br>
 
-| Client | Type | Date | What we did | Result | Report |
-| ------ | ---- | ---- | ----------- | ------ | ------ |
-| Chain Defenders (our own back office) | Build | October 2026 | Automated our own back office: new prospects found and scored every morning, quote requests from our mailbox sent to Telegram, invoices, ledgers and financial reports built on their own, and reports turned from data into PDFs, with a language model drafting the first summary. | Sales, invoicing and reporting for a team of two run from one admin, with no invoices or reports put together by hand. | — |
+| Client | Type | Date | What we did | Result | Stack | Report |
+| ------ | ---- | ---- | ----------- | ------ | ----- | ------ |
+| Chain Defenders (our own back office) | <img height="20" src="https://img.shields.io/badge/-Build-8957e5?style=flat" /> | October 2026 | Automated our own back office: new prospects found and scored every morning, quote requests from our mailbox sent to Telegram, invoices, ledgers and financial reports built on their own, and reports turned from data into PDFs, with a language model drafting the first summary. | Sales, invoicing and reporting for a team of two run from one admin, with no invoices or reports put together by hand. | <img height="20" src="https://img.shields.io/badge/-Groq-234942?style=flat" /> <img height="20" src="https://img.shields.io/badge/-Next.js-234942?style=flat" /> <img height="20" src="https://img.shields.io/badge/-Postgres-234942?style=flat" /> <img height="20" src="https://img.shields.io/badge/-GitHub%20Actions-234942?style=flat" /> <img height="20" src="https://img.shields.io/badge/-Telegram-234942?style=flat" /> <img height="20" src="https://img.shields.io/badge/-LaTeX-234942?style=flat" /> | — |
 
 ---
 
@@ -193,27 +207,31 @@ AI cost audits that cut what companies pay for AI, and builds that hand one job 
 
 <div align="left">
 
-### 🔍 **Pre-Audit Reviews**
+### 🔒 Web3 Security
+
+#### 🔍 **Pre-Audit Reviews**
 
 A pre-audit review is designed to prepare your project for a full audit. This early stage review identifies structural weaknesses and common pitfalls so you can streamline the official audit process — saving both time and cost.
 
-### 🔒 **Web3 Security Audits**
+#### 🔒 **Web3 Security Audits**
 
 A security audit is the cornerstone of trust in Web3. We conduct in-depth, end-to-end reviews of smart contracts, protocols, and blockchain infrastructure to detect vulnerabilities before they can be exploited.
 
-### 🎯 **Web3 Development**
+#### 🎯 **Web3 Development**
 
 Security and functionality go hand in hand. Our development services help teams design and implement scalable, secure, and production-ready smart contracts and protocols.
 
-### 🧪 **Fuzzing & Advanced Testing**
+#### 🧪 **Fuzzing & Advanced Testing**
 
 Fuzzing is one of the most effective ways to uncover edge-case vulnerabilities that traditional testing misses. We simulate adversarial inputs, unexpected states, and long-tail execution paths to stress-test protocols.
 
-### 💶 **AI Cost Audits**
+### 🤖 AI
+
+#### 💶 **AI Cost Audits**
 
 For teams running AI in production: we trace the model spend to the feature behind it, find where it leaks, test every change on your own examples, and read the saving off your next invoice.
 
-### ⚙️ **AI Builds**
+#### ⚙️ **AI Builds**
 
 For teams not using AI yet: one tool for one repeatable job, built into the software you already use, on your own accounts, measured before and after, and handed over with its code.
 
@@ -233,6 +251,8 @@ For teams not using AI yet: one tool for one repeatable job, built into the soft
 | 🌐 **Languages Supported** | Solidity, Rust, Cairo, Move, Vyper |
 |   🤝 **Private Clients**   |     45+ successful engagements     |
 |   📝 **Lines Reviewed**    |       100,000+ lines of code       |
+|     🤖 **AI Services**     |   Cost audits and AI builds   |
+|     📏 **AI Results**      | Measured on the client's own numbers |
 
 </div>
 
@@ -255,6 +275,6 @@ For teams not using AI yet: one tool for one repeatable job, built into the soft
 
 <div align="center">
 
-Made with ❤️ by **Chain Defenders** | Protecting Web3, One Audit at a Time
+Made with ❤️ by **Chain Defenders** | Securing Web3, and making AI pay its way
 
 </div>
