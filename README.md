@@ -4,7 +4,7 @@
 
 ### _Web3 security audits, and AI that pays its way_
 
-**[🔒 Web3 Audits](https://www.chaindefenders.xyz/web3)** • **[🤖 AI Services](https://www.chaindefenders.xyz/ai)** • **[📧 Get a Quote](https://t.me/eth0x539)** • **[📚 Docs](https://www.chaindefenders.xyz/docs)** • **[🐦 X](https://x.com/DefendersAudits)**
+**[🔒 Web3 Security](https://www.chaindefenders.xyz/web3)** • **[🤖 AI Services](https://www.chaindefenders.xyz/ai)** • **[📧 Get a Quote](https://t.me/eth0x539)** • **[📚 Docs](https://www.chaindefenders.xyz/docs)** • **[🐦 X](https://x.com/DefendersAudits)**
 
 <br>
 
@@ -20,30 +20,12 @@
 
 ## 👋 What We Do
 
-<table>
-<tr>
-<th width="50%">🔒 Web3 Security</th>
-<th width="50%">🤖 AI, Measured</th>
-</tr>
-<tr valign="top">
-<td>
-
-- **Audits** of smart contracts and protocols on EVM, HyperEVM and SVM
-- **45+ private engagements** and top-10 finishes on Code4rena, Sherlock, Cantina and CodeHawks
-- **100+ critical and high findings** across 100,000+ lines of code
-- **Partnerships** with Cyfrin, Sherlock and Pashov Audit Group, and repeat clients
-
-</td>
-<td>
-
-- **Cost audits**: every euro of model spend traced to the feature behind it, and the saving read off the next invoice
-- **Builds**: one AI tool for one job, on the client's own accounts, handed over with the code
-- Every change **tested on the client's own examples** before it ships
-- The same security habits: least privilege, a person reviewing anything costly, a record of what changed
-
-</td>
-</tr>
-</table>
+| 🔒 Web3 Security | 🤖 AI |
+| :--------------- | :---- |
+| **Audits** of smart contracts and protocols on EVM, HyperEVM and SVM | **Cost audits**: model spend traced to each feature, the saving read off the next invoice |
+| **45+ private engagements** and top-10 finishes on Code4rena, Sherlock, Cantina and CodeHawks | **Builds**: one AI tool for one job, on the client's own accounts, handed over with the code |
+| **100+ critical and high findings** across 100,000+ lines of code | Every change **tested on the client's own examples** before it ships |
+| **Partnerships** with Cyfrin, Sherlock and Pashov Audit Group, and repeat clients | **Security habits**: least privilege, a person reviewing anything costly, a record of what changed |
 
 ## 🧭 In This Repository
 
@@ -180,8 +162,8 @@ AI cost audits and builds, each with a measured result: a saving read off the ne
 
 ## 📊 By The Numbers
 
-| 🔒 Web3 | 🤖 AI |
-| :------ | :---- |
+| 🔒 Web3 Security | 🤖 AI |
+| :--------------- | :---- |
 | 🏆 **Top 10** in 10+ contests | 💶 Cost audits: the saving **read off the next invoice** |
 | 🔍 **300+** findings, **100+** critical or high | ⚙️ Builds: the same number **before and after** |
 | 🤝 **45+** private engagements | 🧪 Every change **tested on the client's own examples** |
