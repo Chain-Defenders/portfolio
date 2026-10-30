@@ -4,68 +4,61 @@
 
 ### _Web3 security audits, and AI that pays its way_
 
-<br>
-
-[![Contests](https://img.shields.io/badge/Contests-15+-cyan?style=for-the-badge&logo=shield-check)](contests/)
-[![Private Audits](https://img.shields.io/badge/Private_Audits-45+-blue?style=for-the-badge&logo=lock)](private%20audits/)
-[![Lines Reviewed](https://img.shields.io/badge/Lines_Reviewed-100K+-green?style=for-the-badge&logo=code)](https://github.com/Chain-Defenders/portfolio)
-[![Findings](https://img.shields.io/badge/Critical/High_Findings-100+-red?style=for-the-badge&logo=bug)](https://github.com/Chain-Defenders/portfolio)
-[![AI Cost Audits](https://img.shields.io/badge/AI-Cost_Audits-e36209?style=for-the-badge)](https://www.chaindefenders.xyz/ai)
-[![AI Builds](https://img.shields.io/badge/AI-Builds-8957e5?style=for-the-badge)](https://www.chaindefenders.xyz/ai)
+**[🔒 Web3 Audits](https://www.chaindefenders.xyz/web3)** • **[🤖 AI Services](https://www.chaindefenders.xyz/ai)** • **[📧 Get a Quote](https://t.me/eth0x539)** • **[📚 Docs](https://www.chaindefenders.xyz/docs)** • **[🐦 X](https://x.com/DefendersAudits)**
 
 <br>
 
-### 🚀 **Securing a protocol, or making AI pay its way?**
-
-**[📧 Get a Quote](https://t.me/eth0x539)** • **[🔒 Web3 Audits](https://www.chaindefenders.xyz/web3)** • **[🤖 AI Services](https://www.chaindefenders.xyz/ai)** • **[📚 Read Docs](https://www.chaindefenders.xyz/docs)** • **[🐦 Follow Us](https://x.com/DefendersAudits)**
-
----
-
-</div>
-
-## ⚡ Why Chain Defenders?
-
-<div align="left">
-
-### 🔒 **Web3 Security**
-
-- **Top-tier rankings** across Code4rena, Sherlock, Cantina, and CodeHawks
-- **45+ private engagements** with leading protocols and security partners
-- **100+ critical & high severity vulnerabilities** uncovered across **100,000+ lines of code**
-- **Multi-chain expertise**: EVM, HyperEVM, and SVM
-
-### 🤖 **AI, Measured**
-
-- **Cost audits** that trace every euro of model spend to the feature behind it
-- **Every change tested** on the client's own examples before it ships
-- **Savings read off the next provider invoice**, not projected
-- **Builds on the client's own accounts and keys**, handed over with the code and an off switch
-
-### ⚡ **One Way of Working**
-
-- **Security habits for both**: least-privilege access, a person reviewing anything costly, and a record of what changed
-- **Rapid turnaround** without compromising thoroughness
-- **Clear, prioritized recommendations** for immediate implementation
-
-### 🤝 **Trusted by Industry Leaders**
-
-- Selected for **private audits** by well-known protocols
-- **Repeat clients** – proof of our value and reliability
-- **Partnerships** with top security firms like Cyfrin, Sherlock and Pashov Audit Group
+[![Private Audits](https://img.shields.io/badge/Private_Audits-45+-blue?style=for-the-badge&logo=lock)](#-private-engagements)
+[![Contests](https://img.shields.io/badge/Contests-15+-cyan?style=for-the-badge&logo=shield-check)](#-contest-based-audits)
+[![Findings](https://img.shields.io/badge/Critical/High_Findings-100+-red?style=for-the-badge&logo=bug)](#-private-engagements)
+[![AI Cost Audits](https://img.shields.io/badge/AI-Cost_Audits-e36209?style=for-the-badge)](#-ai-engagements)
+[![AI Builds](https://img.shields.io/badge/AI-Builds-8957e5?style=for-the-badge)](#-ai-engagements)
 
 </div>
 
 ---
 
-## 📁 Repository Structure
+## 👋 What We Do
 
-- `private audits/` – Reports from private client engagements conducted under NDA or direct contracts.
-- `contests/` – Finalized reports from open auditing contests (Code4rena, Sherlock, CodeHawks).
-- `ai engagements/` – Reports from AI cost audits and builds, published with the client's agreement.
+<table>
+<tr>
+<th width="50%">🔒 Web3 Security</th>
+<th width="50%">🤖 AI, Measured</th>
+</tr>
+<tr valign="top">
+<td>
+
+- **Audits** of smart contracts and protocols on EVM, HyperEVM and SVM
+- **45+ private engagements** and top-10 finishes on Code4rena, Sherlock, Cantina and CodeHawks
+- **100+ critical and high findings** across 100,000+ lines of code
+- **Partnerships** with Cyfrin, Sherlock and Pashov Audit Group, and repeat clients
+
+</td>
+<td>
+
+- **Cost audits**: every euro of model spend traced to the feature behind it, and the saving read off the next invoice
+- **Builds**: one AI tool for one job, on the client's own accounts, handed over with the code
+- Every change **tested on the client's own examples** before it ships
+- The same security habits: least privilege, a person reviewing anything costly, a record of what changed
+
+</td>
+</tr>
+</table>
+
+## 🧭 In This Repository
+
+| Work | Where the results are | Reports |
+| ---- | --------------------- | ------- |
+| 🔒 Private audits | [Private Engagements](#-private-engagements) | `private audits/` |
+| 🏆 Audit contests | [Contest-Based Audits](#-contest-based-audits) | `contests/` |
+| 🤖 AI cost audits and builds | [AI Engagements](#-ai-engagements) | `ai engagements/` (with the client's agreement) |
 
 ---
 
-## 🔑 Severity Legend
+<details>
+<summary><b>🔑 Severity Legend</b> (web3 findings)</summary>
+
+<br>
 
 | Badge                                            | Meaning                    |
 | ------------------------------------------------ | -------------------------- |
@@ -77,26 +70,11 @@
 
 > **Note:** Chain Defenders classifies all _Critical_ and _High_ findings under a single **High** severity label.
 
----
-
-## 🏷️ AI Work Types
-
-| Badge | Meaning |
-| ----- | ------- |
-| <img height="20" src="https://img.shields.io/badge/-Cost%20audit-e36209?style=flat" /> | Finding and proving savings on an existing AI bill |
-| <img height="20" src="https://img.shields.io/badge/-Build-8957e5?style=flat" /> | One AI tool for one job, built into the client's own software and handed over |
-
----
+</details>
 
 ## 🔒 Private Engagements
 
-<div align="left">
-
-Trusted by leading protocols and security firms for confidential audits. Our private engagements showcase our ability to work with high-profile clients and deliver results that exceed expectations.
-
-</div>
-
-<br>
+Confidential audits for protocols and security firms, newest last. A public report links to its PDF; the rest stay private.
 
 | Protocol                                 | Report Page                                                                                                                                   | Date           | Findings                                                                                                                                                                                                                                               | Tech                                                                                                                                                                                                                                                                                                                                                                                                                                                      | Platform                                                                                                                                                                  |
 | ---------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------- | -------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -158,13 +136,7 @@ Trusted by leading protocols and security firms for confidential audits. Our pri
 
 ## 🏆 Contest-Based Audits
 
-<div align="left">
-
-Our competitive audit performance demonstrates our ability to find critical vulnerabilities that others miss. We consistently rank in the **top 10** across major platforms, proving our expertise in real-world competitive environments.
-
-</div>
-
-<br>
+Open audit contests, with our rank and the findings that counted.
 
 | Protocol         | Audit Platform | Contest Page                                                                             | Report Page                                                                                                 | Rank | Findings                                                                                                                                             | Tech                                                                                                                                                                                                                                                                            | Platform                                                                                                                                                                  |
 | ---------------- | -------------- | ---------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------- | ---- | ---------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -189,13 +161,7 @@ Our competitive audit performance demonstrates our ability to find critical vuln
 
 ## 🤖 AI Engagements
 
-<div align="left">
-
-AI cost audits that cut what companies pay for AI, and builds that hand one job to an AI tool. Every result is measured: a saving read off the next provider invoice, or the same number measured before and after.
-
-</div>
-
-<br>
+AI cost audits and builds, each with a measured result: a saving read off the next provider invoice, or the same number measured before and after. <img height="20" src="https://img.shields.io/badge/-Cost%20audit-e36209?style=flat" /> finding and proving savings on an existing AI bill &nbsp; <img height="20" src="https://img.shields.io/badge/-Build-8957e5?style=flat" /> one AI tool for one job, built and handed over
 
 | Client | Type | Date | What we did | Result | Stack | Report |
 | ------ | ---- | ---- | ----------- | ------ | ----- | ------ |
@@ -205,56 +171,61 @@ AI cost audits that cut what companies pay for AI, and builds that hand one job 
 
 ## 💼 Our Services
 
-<div align="left">
+<table>
+<tr>
+<th width="50%">🔒 Web3 Security</th>
+<th width="50%">🤖 AI</th>
+</tr>
+<tr valign="top">
+<td>
 
-### 🔒 Web3 Security
+- **🔍 Pre-audit reviews**: structural weaknesses found early, so the full audit costs less
+- **🔒 Security audits**: end-to-end reviews of contracts, protocols and infrastructure
+- **🎯 Web3 development**: secure, production-ready contracts and protocols
+- **🧪 Fuzzing and advanced testing**: adversarial inputs and edge-case states
 
-#### 🔍 **Pre-Audit Reviews**
+</td>
+<td>
 
-A pre-audit review is designed to prepare your project for a full audit. This early stage review identifies structural weaknesses and common pitfalls so you can streamline the official audit process — saving both time and cost.
+- **💶 AI cost audits**: for teams running AI in production; the saving read off the next invoice
+- **⚙️ AI builds**: for teams not using AI yet; one job, measured before and after
+- **🆓 A free first review** for either
 
-#### 🔒 **Web3 Security Audits**
-
-A security audit is the cornerstone of trust in Web3. We conduct in-depth, end-to-end reviews of smart contracts, protocols, and blockchain infrastructure to detect vulnerabilities before they can be exploited.
-
-#### 🎯 **Web3 Development**
-
-Security and functionality go hand in hand. Our development services help teams design and implement scalable, secure, and production-ready smart contracts and protocols.
-
-#### 🧪 **Fuzzing & Advanced Testing**
-
-Fuzzing is one of the most effective ways to uncover edge-case vulnerabilities that traditional testing misses. We simulate adversarial inputs, unexpected states, and long-tail execution paths to stress-test protocols.
-
-### 🤖 AI
-
-#### 💶 **AI Cost Audits**
-
-For teams running AI in production: we trace the model spend to the feature behind it, find where it leaks, test every change on your own examples, and read the saving off your next invoice.
-
-#### ⚙️ **AI Builds**
-
-For teams not using AI yet: one tool for one repeatable job, built into the software you already use, on your own accounts, measured before and after, and handed over with its code.
-
-</div>
-
----
+</td>
+</tr>
+</table>
 
 ## 📊 By The Numbers
 
-<div align="center">
+<table>
+<tr>
+<th width="50%">🔒 Web3</th>
+<th width="50%">🤖 AI</th>
+</tr>
+<tr valign="top">
+<td>
 
-|           Metric           |               Value                |
-| :------------------------: | :--------------------------------: |
-|  🏆 **Contest Rankings**   |       Top 10 in 10+ contests       |
-|   🔍 **Total Findings**    |  300+ vulnerabilities discovered   |
-|    ⚡ **Critical/High**    |  100+ high-severity issues found   |
-| 🌐 **Languages Supported** | Solidity, Rust, Cairo, Move, Vyper |
-|   🤝 **Private Clients**   |     45+ successful engagements     |
-|   📝 **Lines Reviewed**    |       100,000+ lines of code       |
-|     🤖 **AI Services**     |   Cost audits and AI builds   |
-|     📏 **AI Results**      | Measured on the client's own numbers |
+| | |
+| :-- | :-- |
+| 🏆 Contest rankings | Top 10 in 10+ contests |
+| 🔍 Findings | 300+, 100+ critical or high |
+| 🤝 Private clients | 45+ engagements |
+| 📝 Code reviewed | 100,000+ lines |
+| 🌐 Languages | Solidity, Rust, Cairo, Move, Vyper |
 
-</div>
+</td>
+<td>
+
+| | |
+| :-- | :-- |
+| 💶 Cost audits | Saving read off the next invoice |
+| ⚙️ Builds | The same number, before and after |
+| 🧪 Every change | Tested on the client's own examples |
+| 🔑 Every build | On the client's own accounts and keys |
+
+</td>
+</tr>
+</table>
 
 ---
 
@@ -268,12 +239,6 @@ For teams not using AI yet: one tool for one repeatable job, built into the soft
 [![Telegram](https://img.shields.io/badge/Telegram-Contact-0088cc?style=for-the-badge&logo=telegram)](https://t.me/eth0x539)
 
 **📧 Direct Contact:** [@eth0x539](https://t.me/eth0x539) / [@peterPSR](https://t.me/peterPSR)
-
-</div>
-
----
-
-<div align="center">
 
 Made with ❤️ by **Chain Defenders** | Securing Web3, and making AI pay its way
 
