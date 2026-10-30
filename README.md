@@ -205,23 +205,19 @@ AI cost audits and builds, each with a measured result: a saving read off the ne
 <tr valign="top">
 <td>
 
-| | |
-| :-- | :-- |
-| 🏆 Contest rankings | Top 10 in 10+ contests |
-| 🔍 Findings | 300+, 100+ critical or high |
-| 🤝 Private clients | 45+ engagements |
-| 📝 Code reviewed | 100,000+ lines |
-| 🌐 Languages | Solidity, Rust, Cairo, Move, Vyper |
+- 🏆 **Top 10** in 10+ contests
+- 🔍 **300+** findings, **100+** critical or high
+- 🤝 **45+** private engagements
+- 📝 **100,000+** lines of code reviewed
+- 🌐 **5** languages: Solidity, Rust, Cairo, Move, Vyper
 
 </td>
 <td>
 
-| | |
-| :-- | :-- |
-| 💶 Cost audits | Saving read off the next invoice |
-| ⚙️ Builds | The same number, before and after |
-| 🧪 Every change | Tested on the client's own examples |
-| 🔑 Every build | On the client's own accounts and keys |
+- 💶 Cost audits: the saving **read off the next invoice**
+- ⚙️ Builds: the same number **before and after**
+- 🧪 Every change **tested on the client's own examples**
+- 🔑 Every build **on the client's own accounts and keys**
 
 </td>
 </tr>
