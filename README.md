@@ -158,7 +158,7 @@ AI cost audits and builds, each with a measured result: a saving read off the ne
 | 🔍 **Pre-audit reviews**: weak spots found early | 💶 **AI cost audits**: a smaller AI bill, proven on the invoice |
 | 🔒 **Security audits**: contracts and protocols, end to end | ⚙️ **AI builds**: one AI tool for one job, handed over |
 | 🎯 **Web3 development**: secure, production-ready code | 🆓 **A free first review** for either |
-| 🧪 **Fuzzing**: adversarial inputs and edge cases | |
+| 🧪 **Fuzzing**: adversarial inputs and edge cases | 🛟 **Care plans**: €350 or €900 a month, after a build |
 
 ## 📊 By The Numbers
 
