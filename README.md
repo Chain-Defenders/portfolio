@@ -171,57 +171,22 @@ AI cost audits and builds, each with a measured result: a saving read off the ne
 
 ## 💼 Our Services
 
-<table>
-<tr>
-<th width="50%">🔒 Web3 Security</th>
-<th width="50%">🤖 AI</th>
-</tr>
-<tr valign="top">
-<td>
-
-- 🔍 **Pre-audit reviews**: weak spots found early
-- 🔒 **Security audits**: contracts and protocols, end to end
-- 🎯 **Web3 development**: secure, production-ready code
-- 🧪 **Fuzzing**: adversarial inputs and edge cases
-
-</td>
-<td>
-
-- 💶 **AI cost audits**: a smaller AI bill, proven on the invoice
-- ⚙️ **AI builds**: one AI tool for one job, handed over
-- 🆓 **A free first review** for either
-
-</td>
-</tr>
-</table>
+| 🔒 Web3 Security | 🤖 AI |
+| :--------------- | :---- |
+| 🔍 **Pre-audit reviews**: weak spots found early | 💶 **AI cost audits**: a smaller AI bill, proven on the invoice |
+| 🔒 **Security audits**: contracts and protocols, end to end | ⚙️ **AI builds**: one AI tool for one job, handed over |
+| 🎯 **Web3 development**: secure, production-ready code | 🆓 **A free first review** for either |
+| 🧪 **Fuzzing**: adversarial inputs and edge cases | |
 
 ## 📊 By The Numbers
 
-<table>
-<tr>
-<th width="50%">🔒 Web3</th>
-<th width="50%">🤖 AI</th>
-</tr>
-<tr valign="top">
-<td>
-
-- 🏆 **Top 10** in 10+ contests
-- 🔍 **300+** findings, **100+** critical or high
-- 🤝 **45+** private engagements
-- 📝 **100,000+** lines of code reviewed
-- 🌐 **5** languages: Solidity, Rust, Cairo, Move, Vyper
-
-</td>
-<td>
-
-- 💶 Cost audits: the saving **read off the next invoice**
-- ⚙️ Builds: the same number **before and after**
-- 🧪 Every change **tested on the client's own examples**
-- 🔑 Every build **on the client's own accounts and keys**
-
-</td>
-</tr>
-</table>
+| 🔒 Web3 | 🤖 AI |
+| :------ | :---- |
+| 🏆 **Top 10** in 10+ contests | 💶 Cost audits: the saving **read off the next invoice** |
+| 🔍 **300+** findings, **100+** critical or high | ⚙️ Builds: the same number **before and after** |
+| 🤝 **45+** private engagements | 🧪 Every change **tested on the client's own examples** |
+| 📝 **100,000+** lines of code reviewed | 🔑 Every build **on the client's own accounts and keys** |
+| 🌐 **5** languages: Solidity, Rust, Cairo, Move, Vyper | |
 
 ---
 
