@@ -33,7 +33,7 @@
 | ---- | --------------------- | ------- |
 | 🔒 Private audits | [Private Engagements](#-private-engagements) | `private audits/` |
 | 🏆 Audit contests | [Contest-Based Audits](#-contest-based-audits) | `contests/` |
-| 🤖 AI cost audits and builds | [AI Engagements](#-ai-engagements) | `ai engagements/` (with the client's agreement) |
+| 🤖 AI cost audits and builds | [AI Engagements](#-ai-engagements) | `ai engagements/` |
 
 ---
 
